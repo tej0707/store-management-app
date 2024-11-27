@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "prod01",
+      "productName": "Sundaram Notebook",
+      "Specification": "300 pages",
+      "Manufacturer": "Sundaram pvlt",
+      "quantity": "3000",
+      "price": "65",
+      "inStock": true
+    }
+  ]
+}
